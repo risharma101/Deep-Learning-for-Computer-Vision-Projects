@@ -2,17 +2,16 @@
 
 #### Projects from my Deep Learning for Computer Vision Course! 
 
-## About this Project
-### Built With
+## Built With
 - [![PyTorch][PyTorch_Logo]][PyTorch-url]
 - [![Python][Python_Logo]][Python-url]
 
-   
+## Projects
+* Project 1: Building linear classifiers and optimizers from scratch
+* Project 2: Building CNNs from scratch, building ResNet from scratch, and finetuning ResNet-18
+* Project 3: Building ViT from scratch and using ViT for semantic segmentation
+* Project 4: Implementing diffusion models and NeRFs from scratch
 
-<!-- CONTACT -->
-## Contact
-
-Rishabh Sharma - rishabhsharma@ucla.edu
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
